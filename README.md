@@ -81,8 +81,7 @@
 
 ---
 
-## 🖼️ Галерея — портфолио (миниатюры)
-Ниже — компактная сетка миниатюр. Кликайте по картинке, чтобы открыть полноразмерную версию.  
+## 🖼️ Галерея — портфолио
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:flex-start">
   <a href="assets/neon_town.png" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
@@ -91,21 +90,6 @@
                 box-shadow:0 10px 24px rgba(0,0,0,0.6);
                 border:2px solid rgba(255,20,147,0.12);">
   </a>
-
-  <a href="assets/project_02.jpg" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-    <img alt="Project 02" src="assets/project_02.jpg"
-         style="width:140px;max-width:100%;height:auto;border-radius:8px;
-                box-shadow:0 8px 20px rgba(0,0,0,0.5);
-                border:2px solid rgba(124,58,237,0.10);">
-  </a>
-
-  <a href="assets/project_03.jpg" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-    <img alt="Project 03" src="assets/project_03.jpg"
-         style="width:260px;max-width:100%;height:auto;border-radius:12px;
-                box-shadow:0 12px 28px rgba(0,0,0,0.6);
-                border:3px solid rgba(58,213,255,0.08);">
-  </a>
-
 </div>
 
 ---
