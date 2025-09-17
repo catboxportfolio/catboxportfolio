@@ -1,43 +1,44 @@
-# Привет 👋, я **CatBox**
-**Junior / Middle Frontend Developer** — люблю аккуратный интерфейс и продуктивный UX.
+# Hi 👋, I'm **CatBox**
+**Junior / Middle Frontend Developer** — passionate about clean interfaces and meaningful UX.
 
 [![Follow on GitHub](https://img.shields.io/github/followers/CatBox?label=Follow&style=social)](https://github.com/CatBox)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eduardNigma?label=Follow&style=social)](https://twitter.com/eduardNigma)
 
 ---
 
-## 🌃 О себе
-Я создаю аккуратные, отзывчивые и продуктивные интерфейсы. Работал с проектами на **React** и **React Native**, умею красиво верстать и люблю чистый код. Особое внимание уделяю деталям интерфейса: анимациям, микровзаимодействиям и понятной навигации.
+## 🌃 About Me
+I love building clean, responsive, and user-friendly interfaces.  
+I’ve worked on projects with **React** and **React Native**, enjoy writing clean, maintainable code, and pay close attention to the details that make an interface shine: animations, micro-interactions, and intuitive navigation.
 
-**Коротко:** UX-minded, component-driven
-
----
-
-## 🔧 Чем занимаюсь сейчас
-- 🚀 Разрабатываю фронтенд-приложения на React / React Native  
-- 🎨 Адаптивная и семантичная верстка (HTML/CSS/SCSS)  
-- 🧩 Архитектура и TypeScript для масштабируемости  
-- ⚡ Эксперименты с анимациями и UX-оптимизацией
+**In short:** UX-focused, component-driven.
 
 ---
 
-## 🛠️ Технологии и инструменты
-**Я работаю с:**
+## 🔧 What I’m Working On
+- 🚀 Developing modern frontend apps with React / React Native  
+- 🎨 Crafting responsive & semantic layouts (HTML/CSS/SCSS)  
+- 🧩 Scalable architecture with TypeScript  
+- ⚡ Experimenting with animations & UX optimizations  
 
-- **Языки:** JavaScript (ES6+), TypeScript  
+---
+
+## 🛠️ Tech Stack
+**I work with:**
+
+- **Languages:** JavaScript (ES6+), TypeScript  
 - **UI / Libs:** React, React Native, Expo, Reanimated  
-- **Верстка:** HTML5, CSS3, SCSS, Flexbox, Grid  
-- **Инструменты:** Git, Vite, Webpack  
-- **Дизайн:** Figma (основы), дизайн компонентов
-- 
+- **Styling:** HTML5, CSS3, SCSS, Flexbox, Grid  
+- **Tools:** Git, Vite, Webpack  
+- **Design:** Figma basics, component design  
+
 ---
 
-## 🚀 Избранные проекты
+## 🚀 Featured Projects
 
 ### 🔸 Among Us - Parody
-**Описание:** Пародия на игру Among Us с мини-игрой "Кто убийца?".  
-**Технологии:** React  
-**Демо:** https://amongusparody.netlify.app/  
+**Description:** A parody of Among Us with a mini-game *“Who’s the killer?”*.  
+**Tech:** React  
+**Demo:** https://amongusparody.netlify.app/  
 <div style="margin:12px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start">
   <a href="assets/among_us_parody.png" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <img alt="Among Us Parody Preview" src="assets/among_us_parody.png"
@@ -51,9 +52,9 @@
 ---
 
 ### 🔸 Earcity
-**Описание:** Мобильное приложение-блог (Frontend).  
-**Технологии:** React Native, LinearGradient, react-navigation  
-**Репозиторий:** https://github.com/CatBox/earcity-tv  
+**Description:** A mobile blogging app (Frontend).  
+**Tech:** React Native, LinearGradient, react-navigation  
+**Repo:** https://github.com/CatBox/earcity-tv  
 <div style="margin:12px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start">
   <a href="assets/earcity_screen.jpg" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <img alt="Earcity App Preview" src="assets/earcity_screen.jpg"
@@ -66,10 +67,10 @@
 
 ---
 
-### 🔸 LastWar - Strategy browser game
-**Описание:** Браузерная стратегия с масштабируемой картой, юнитами и боевой системой.  
-**Технологии:** React, CSS, SVG  
-**Демо:** https://theendofwar.netlify.app/  
+### 🔸 LastWar - Browser Strategy Game
+**Description:** A browser-based strategy game with a scalable map, units, and a combat system.  
+**Tech:** React, CSS, SVG  
+**Demo:** https://theendofwar.netlify.app/  
 <div style="margin:12px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start">
   <a href="assets/last_war.png" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <img alt="LastWar Game Preview" src="assets/last_war.png"
@@ -81,8 +82,7 @@
 
 ---
 
-## 🖼️ Галерея — портфолио
-
+## 🖼️ Portfolio Gallery
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:flex-start">
   <a href="assets/neon_town.png" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <img alt="Neon Town" src="assets/neon_town.png"
@@ -94,23 +94,22 @@
 
 ---
 
-## 📊 Что у меня в GitHub (статистика)
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CatBox&show_icons=true&count_private=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatBox&layout=compact&theme=radical)
 
 ---
 
-## ✉️ Контакты
+## ✉️ Contact
 - Email: eduardnigma28@gmail.com  
 - Telegram / Twitter: @eduardNigma  
-- Портфолио: https://catboxportfolio.netlify.app/
+- Portfolio: https://catboxportfolio.netlify.app/  
 
 ---
 
-## 🧩 Немного обо мне (fun facts)
-- ☕ Усидчивый и целеустремлённый.  
-- 🎧 В наушниках — будь то код или музыка — всегда продуктивнее.  
-- 🧠 Постоянно учусь: сейчас изучаю TypeScript.
+## 🧩 Fun Facts
+- ☕ Persistent and goal-driven  
+- 🎧 Headphones on = max productivity (code or music)  
+- 🧠 Lifelong learner — currently diving deeper into TypeScript  
 
 ---
-
