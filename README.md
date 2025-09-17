@@ -35,7 +35,7 @@
 ## Избранные проекты
 
 ### 🔸 Among Us - Parody
-![Among Us Parody Preview]()
+![Among Us Parody Preview](assets/among_us_parody.png)
 **Описание:** Пародия на игру Among Us с возможностью сыграть в аналог мафии "Кто убийца?".  
 **Технологии:** React.  
 **Ссылка:** https://amongusparody.netlify.app/
@@ -43,7 +43,7 @@
 ---
 
 ### 🔸 Earcity
-![Earcity App Preview](https://via.placeholder.com/600x300.png?text=Earcity+App+Preview)
+![Earcity App Preview](/assets/)
 **Описание:** Мобильное приложение-блог only Frontend.  
 **Технологии:** React Native, LinearGradient, react-navigation.  
 **Ссылка:** https://github.com/CatBox/earcity-tv
@@ -51,7 +51,7 @@
 ---
 
 ### 🔸 LastWar - Strategy browser game
-![LastWar Game Preview](https://via.placeholder.com/600x300.png?text=LastWar+Game+Preview)
+![LastWar Game Preview](assets/last_war.png)
 **Описание:** Браузерная стратегическая игра: масштабируемая карта, юниты, боевые механики.  
 **Технологии:** React, CSS, SVG.  
 **Ссылка:** https://theendofwar.netlify.app/
@@ -74,7 +74,8 @@
 ## Контакты
 - ✉️ Email: eduardnigma28@gmail.com
 - 💬 Telegram / Twitter: @eduardNigma <!-- замените если нужно -->
-- 🔗 Портфолио: https://catboxportfolio.netlify.app/
+- ![Portfolio site Preview](assets/neon_town.png)
+- 🔗 Портфолио: https://catboxportfolio.netlify.app/(assets/neon_town.png)
 
 ---
 
