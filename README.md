@@ -78,7 +78,7 @@ I’ve worked on projects with **React** and **React Native**, enjoy writing cle
 ### 🔸 Earcity
 **Description:** A mobile blogging app (Frontend).  
 **Tech:** React Native, LinearGradient, react-navigation  
-**Repo:** https://github.com/CatBox/earcity-tv  
+**Download:** https://files.catbox.moe/ley6my.apk  
 <div style="margin:12px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start">
   <a href="assets/earcity_screen.jpg" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
     <img alt="Earcity App Preview" src="assets/earcity_screen.jpg"
