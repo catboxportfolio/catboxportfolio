@@ -16,24 +16,47 @@ I’ve worked on projects with **React** and **React Native**, enjoy writing cle
 
 ## 🔧 What I’m Working On
 - 🚀 Developing modern frontend apps with React / React Native  
+- 🦀 Expanding full-stack capabilities with Rust backend development
 - 🎨 Crafting responsive & semantic layouts (HTML/CSS/SCSS)  
 - 🧩 Scalable architecture with TypeScript  
-- ⚡ Experimenting with animations & UX optimizations  
+- ⚡ Experimenting with real-time data streaming and WebRTC
 
 ---
 
 ## 🛠️ Tech Stack
 **I work with:**
 
-- **Languages:** JavaScript (ES6+), TypeScript  
-- **UI / Libs:** React, React Native, Expo, Reanimated  
+- **Languages:** JavaScript (ES6+), TypeScript, Rust, C++
+- **UI / Libs:** React, React Native, Expo, Reanimated
 - **Styling:** HTML5, CSS3, SCSS, Flexbox, Grid  
-- **Tools:** Git, Vite, Webpack  
+- **Tools / Protocols:** Git, Vite, Webpack, WebRTC, Web Audio API
 - **Design:** Figma basics, component design  
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔸 Radio-Wave - WebRTC Radio Platform
+**Description:** A real-time browser radio broadcasting platform featuring distinct broadcaster and listener roles, an advanced audio modulator, and a custom administrative dashboard for node management.  
+**Tech:** React, Vite, Rust (Signaling Server), WebRTC, Web Audio API  
+<div style="margin:12px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start">
+  <a href="assets/2eb9acc6-c27a-47a0-af34-dfe53c8d37c2.jfif" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img alt="EchoNode Broadcaster UI" src="assets/2eb9acc6-c27a-47a0-af34-dfe53c8d37c2.jfif"
+         style="width:260px;max-width:100%;height:auto;border-radius:12px;
+                box-shadow:0 12px 30px rgba(0,0,0,0.6);
+                border:3px solid rgba(0,255,0,0.12);
+                outline: 2px solid rgba(0,255,0,0.08);">
+  </a>
+  <a href="assets/c3c47a64-aa25-4e93-a051-e62f3271bb85.png" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img alt="EchoNode Admin Panel" src="assets/c3c47a64-aa25-4e93-a051-e62f3271bb85.png"
+         style="width:260px;max-width:100%;height:auto;border-radius:12px;
+                box-shadow:0 12px 30px rgba(0,0,0,0.6);
+                border:3px solid rgba(255,0,0,0.12);
+                outline: 2px solid rgba(255,0,0,0.08);">
+  </a>
+</div>
+
+---
 
 ### 🔸 Among Us - Parody
 **Description:** A parody of Among Us with a mini-game *“Who’s the killer?”*.  
@@ -110,7 +133,5 @@ I’ve worked on projects with **React** and **React Native**, enjoy writing cle
 ## 🧩 Fun Facts
 - ☕ Persistent and goal-driven  
 - 🎧 Headphones on = max productivity (code or music)  
-- 🧠 Lifelong learner — currently diving deeper into TypeScript  
-
----
+- 🧠 Lifelong learner — currently diving deeper into TypeScript and Full-Stack performance
 
