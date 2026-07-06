@@ -29,12 +29,34 @@ I’ve worked on projects with **React** and **React Native**, enjoy writing cle
 - **Languages:** JavaScript (ES6+), TypeScript, Rust, C++
 - **UI / Libs:** React, React Native, Expo, Reanimated
 - **Styling:** HTML5, CSS3, SCSS, Flexbox, Grid  
-- **Tools / Protocols:** Git, Vite, Webpack, WebRTC, Web Audio API
+- **Tools / Protocols:** Git, Vite, Redux, Webpack, WebRTC, Web Audio API
 - **Design:** Figma basics, component design  
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔸 High-Speed Binary Engine V2.1
+**Description:** A high-performance reverse engineering and binary diffing platform designed to analyze, decode, and compare executable files. It executes structural modifications analysis in milliseconds utilizing data parallelism and automatically maps out interactive, node-based function call graphs.  
+**Tech:** Rust (Axum, Rayon, Capstone), React, React Flow  
+<div style="margin:12px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start">
+  <a href="assets/glad1.png" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img alt="Binary Engine Diff UI" src="assets/glad1.png"
+         style="width:260px;max-width:100%;height:auto;border-radius:12px;
+                box-shadow:0 12px 30px rgba(0,0,0,0.6);
+                border:3px solid rgba(255,50,50,0.12);
+                outline: 2px solid rgba(255,50,50,0.08);">
+  </a>
+  <a href="assets/glad3.png" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img alt="Structural Modifications Analysis" src="assets/glad3.png"
+         style="width:260px;max-width:100%;height:auto;border-radius:12px;
+                box-shadow:0 12px 30px rgba(0,0,0,0.6);
+                border:3px solid rgba(255,50,50,0.12);
+                outline: 2px solid rgba(255,50,50,0.08);">
+  </a>
+</div>
+
+---
 
 ### 🔸 Radio-Wave - WebRTC Radio Platform
 **Description:** A real-time browser radio broadcasting platform featuring distinct broadcaster and listener roles, an advanced audio modulator, and a custom administrative dashboard for node management.  
@@ -135,4 +157,3 @@ I’ve worked on projects with **React** and **React Native**, enjoy writing cle
 - ☕ Persistent and goal-driven  
 - 🎧 Headphones on = max productivity (code or music)  
 - 🧠 Lifelong learner — currently diving deeper into TypeScript and Full-Stack performance
-
