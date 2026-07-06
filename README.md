@@ -39,6 +39,7 @@ I’ve worked on projects with **React** and **React Native**, enjoy writing cle
 ### 🔸 High-Speed Binary Engine V2.1
 **Description:** A high-performance reverse engineering and binary diffing platform designed to analyze, decode, and compare executable files. It executes structural modifications analysis in milliseconds utilizing data parallelism and automatically maps out interactive, node-based function call graphs.  
 **Tech:** Rust (Axum, Rayon, Capstone), React, React Flow 
+
 **Demo:** https://rosaura-rivetless-contendingly.ngrok-free.dev 
 <div style="margin:12px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start">
   <a href="assets/glad1.png" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
